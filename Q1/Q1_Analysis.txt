@@ -14,4 +14,4 @@ Round Robin Scheduling:
 Average Waiting Time = (0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 4 + 0) / 11 = 0.3636
 Average Turnaround Time = (4 + 3 + 3 + 4 + 4 + 4 + 4 + 4 + 4 + 8 + 8) / 11 = 4.3636
 
-Upon observation from the above obtained values, Shortest Job First (SJF) seems to be the most suitable scheduling algorithm in this scenario based on the lowest average waiting time and a reasonable average turnaround time.
+Upon observation from the above obtained values, Round Robin Scheduling seems to be the most suitable scheduling algorithm in this scenario based on the lowest average waiting time and a reasonable average turnaround time.
